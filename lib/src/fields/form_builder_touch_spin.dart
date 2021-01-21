@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
-import 'package:flutter_touch_spin/flutter_touch_spin.dart';
+import 'package:flutter_form_builder/src/widgets/touch_spin.dart';
 import 'package:intl/intl.dart';
 
 /// Field for selection of a number by tapping on an add or subtract icon
