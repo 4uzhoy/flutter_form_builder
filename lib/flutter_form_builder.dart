@@ -1,7 +1,7 @@
 library flutter_form_builder;
 
 export 'package:flutter_typeahead/flutter_typeahead.dart';
-export 'package:signature/signature.dart';
+
 export 'package:dropdown_search/dropdown_search.dart' hide ErrorBuilder;
 
 export './localization/form_builder_localizations.dart';
